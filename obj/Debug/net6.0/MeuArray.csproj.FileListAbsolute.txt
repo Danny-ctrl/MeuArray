@@ -1,0 +1,15 @@
+C:\Users\Daniele\MeuArray\bin\Debug\net6.0\MeuArray.exe
+C:\Users\Daniele\MeuArray\bin\Debug\net6.0\MeuArray.deps.json
+C:\Users\Daniele\MeuArray\bin\Debug\net6.0\MeuArray.runtimeconfig.json
+C:\Users\Daniele\MeuArray\bin\Debug\net6.0\MeuArray.dll
+C:\Users\Daniele\MeuArray\bin\Debug\net6.0\MeuArray.pdb
+C:\Users\Daniele\MeuArray\obj\Debug\net6.0\MeuArray.csproj.AssemblyReference.cache
+C:\Users\Daniele\MeuArray\obj\Debug\net6.0\MeuArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniele\MeuArray\obj\Debug\net6.0\MeuArray.AssemblyInfoInputs.cache
+C:\Users\Daniele\MeuArray\obj\Debug\net6.0\MeuArray.AssemblyInfo.cs
+C:\Users\Daniele\MeuArray\obj\Debug\net6.0\MeuArray.csproj.CoreCompileInputs.cache
+C:\Users\Daniele\MeuArray\obj\Debug\net6.0\MeuArray.dll
+C:\Users\Daniele\MeuArray\obj\Debug\net6.0\refint\MeuArray.dll
+C:\Users\Daniele\MeuArray\obj\Debug\net6.0\MeuArray.pdb
+C:\Users\Daniele\MeuArray\obj\Debug\net6.0\MeuArray.genruntimeconfig.cache
+C:\Users\Daniele\MeuArray\obj\Debug\net6.0\ref\MeuArray.dll
